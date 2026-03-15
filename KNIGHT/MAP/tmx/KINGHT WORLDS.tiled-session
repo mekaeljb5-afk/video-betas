@@ -1,0 +1,58 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/mekae/OneDrive/Desktop/KNIGHT/MAP/1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#20002": {
+            "scaleInDock": 1
+        },
+        "#20003": {
+            "scaleInDock": 1
+        },
+        "Beta.tmx#HHHH": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/mekae/OneDrive/Desktop/KNIGHT/MAP/1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 399,
+                "y": 324
+            }
+        },
+        "C:/Users/mekae/OneDrive/Desktop/KNIGHT/MAP/1.tmx#HHHH": {
+            "scaleInDock": 1
+        },
+        "C:/Users/mekae/OneDrive/Desktop/KNIGHT/MAP/1.tmx#texture": {
+            "scaleInDock": 1.5
+        }
+    },
+    "last.exportedFilePath": "C:/Users/mekae/OneDrive/Desktop/KNIGHT/MAP",
+    "last.imagePath": "C:/Users/mekae/OneDrive/Desktop/KNIGHT/ASSETS",
+    "map.height": 22,
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 40,
+    "openFiles": [
+        "C:/Users/mekae/OneDrive/Desktop/KNIGHT/MAP/1.tmx"
+    ],
+    "project": "KINGHT WORLDS.tiled-project",
+    "recentFiles": [
+        "C:/Users/mekae/OneDrive/Desktop/KNIGHT/MAP/1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
