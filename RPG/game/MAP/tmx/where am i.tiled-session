@@ -1,0 +1,56 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TSX.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 0.5
+        },
+        "TSX.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1063.6363636363635,
+                "y": 160.60606060606074
+            }
+        },
+        "TSX.tmx#GGHHHG": {
+            "scaleInDock": 1
+        },
+        "TSX.tmx#floor": {
+            "scaleInDock": 1
+        },
+        "world.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/mekae/OneDrive/Desktop/game/MAP",
+    "last.imagePath": "C:/Users/mekae/OneDrive/Desktop/game/ASSETS",
+    "map.height": 70,
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 100,
+    "map.tileWidth": 100,
+    "map.width": 70,
+    "openFiles": [
+        "TSX.tmx",
+        "world.tsx"
+    ],
+    "project": "where am i.tiled-project",
+    "recentFiles": [
+        "world.tsx",
+        "TSX.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 100,
+        "width": 100
+    }
+}
