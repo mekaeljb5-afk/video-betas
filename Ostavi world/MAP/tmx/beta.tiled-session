@@ -1,0 +1,40 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "checkers.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1600,
+                "y": 1122
+            }
+        },
+        "dude.tsx": {
+            "dynamicWrapping": false
+        }
+    },
+    "last.exportedFilePath": "C:/Users/mekae/OneDrive/Desktop/rpg/MAP",
+    "last.imagePath": "C:/Users/mekae/OneDrive/Desktop/rpg/ASSETS",
+    "map.height": 740,
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 100,
+    "map.tileWidth": 100,
+    "map.width": 1280,
+    "openFiles": [
+    ],
+    "project": "beta.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 100,
+        "width": 100
+    }
+}
